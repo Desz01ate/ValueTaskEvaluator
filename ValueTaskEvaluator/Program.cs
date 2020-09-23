@@ -124,6 +124,7 @@ namespace ValueTaskEvaluator
         static void Main(string[] args)
         {
             BenchmarkRunner.Run<TasksBenchmark>();
+            //test Naja
         }
     }
 }
